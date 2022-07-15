@@ -1,4 +1,6 @@
 module.exports = {
+  singleQuote: true,
+  trailingComma: 'all',
   arrowParens: 'always',
   bracketSpacing: true,
   endOfLine: 'lf',
@@ -10,9 +12,7 @@ module.exports = {
   quoteProps: 'as-needed',
   requirePragma: false,
   semi: true,
-  singleQuote: true,
   tabWidth: 2,
-  trailingComma: 'all',
   useTabs: false,
   vueIndentScriptAndStyle: false,
   embeddedLanguageFormatting: 'off',
